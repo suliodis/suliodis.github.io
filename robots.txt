@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suliodis.github.io/sitemap.html.gz
+Sitemap: https://suliodis.github.io/app/sitemap.html.gz
+Sitemap: https://suliodis.github.io/assets/sitemap.html.gz
+Sitemap: https://suliodis.github.io/css/sitemap.html.gz
+Sitemap: https://suliodis.github.io/includes/sitemap.html.gz
+Sitemap: https://suliodis.github.io/item/sitemap.html.gz
+Sitemap: https://suliodis.github.io/src/sitemap.html.gz
